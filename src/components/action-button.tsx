@@ -1,7 +1,4 @@
 
-import { Direction } from '../state/actions';
-import { MoveCellAction} from '../state/actions';
-
 
 interface ActionButtonProps {
   onClick: () => void
